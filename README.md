@@ -13,3 +13,4 @@ For detailed instruction, please see tutorial.pdf.
 CITING BEEHIVE
 If you use Beehive, please cite this publication:
 Yang et al. An enhanced genetic model of colorectal cancer progression history. Genome Biology. 2019.
+ 
